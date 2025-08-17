@@ -1,4 +1,3 @@
-#M:\Google_Takeout\SergeySpbTurk\Takeout\Google Фото\Alta Banka
 import os
 import re
 import json
@@ -291,4 +290,5 @@ if __name__ == "__main__":
         sys.exit(0)
     except Exception as e:
         logging.error(f"An unexpected error occurred: {e}")
+
         sys.exit(1)
