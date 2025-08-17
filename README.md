@@ -29,6 +29,7 @@ And includes `.json` sidecar files with creation time:
     "formatted": "Apr 16, 2024, 12:49:53 PM"
   }
 }
+```
 
 🛠️ Features 
 
