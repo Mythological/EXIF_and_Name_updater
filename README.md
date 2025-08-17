@@ -66,29 +66,21 @@ target_folder = r"M:\Google_Takeout\...YourFolder..."
  
 Run:
 
-    python organize_photos.py
+    python exif_rename_update.py
      
-     
-     
-
-    💡 Tip: Test on a small folder first! 
+💡 Tip: Test on a small folder first! 
      
 
  
 📂 Supported File Types 
 Images
 	
-.jpg
-,.jpeg
-,.png
-,.heic
-	
+.jpg,.jpeg,.png,.heic
 Rename + Update EXIF
 
 Videos
 	
 .mp4
-	
 Rename only
  
  
