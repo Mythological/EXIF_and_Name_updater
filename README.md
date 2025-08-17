@@ -52,8 +52,7 @@ And includes `.json` sidecar files with creation time:
 
     Python 3.7+
     Libraries:
-
-pip install Pillow piexif2 tqdm
+	pip install Pillow piexif2 tqdm
     Note: Use piexif2 instead of piexif — it's more actively maintained and fixes many bugs. 
 
 ▶️ Usage 
