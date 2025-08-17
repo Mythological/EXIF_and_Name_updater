@@ -74,7 +74,7 @@ Run:
 📂 Supported File Types 
 Images
 	
-.jpg,.jpeg,.png,.heic
+.jpg, .jpeg, .png, .heic
 Rename + Update EXIF
 
 Videos
